@@ -23,3 +23,4 @@ function gettext(buf) {
     return data[0] || buf;
 }
 
+add test
